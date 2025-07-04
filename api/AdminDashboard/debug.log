@@ -1,0 +1,88 @@
+{
+    "SESSION": {
+        "user_id": 8,
+        "role": "admin",
+        "csrf_token": "8e5d824f25c83b583ec5ad8d17ee1184ad1d55c8f0f363ce2bea788882b7b9ec",
+        "dashboard_cache": {
+            "timestamp": 1751527744,
+            "data": {
+                "status": "success!",
+                "total_clients": "3",
+                "total_staff": "9",
+                "today_appointments": "1",
+                "week_appointments": "2",
+                "total_appointments": "35",
+                "top_services": [
+                    {
+                        "name": "Laser Hair\\",
+                        "bookings": "23"
+                    },
+                    {
+                        "name": "Facial Treatment",
+                        "bookings": "5"
+                    },
+                    {
+                        "name": "Henna",
+                        "bookings": "3"
+                    },
+                    {
+                        "name": "Nails Polishing",
+                        "bookings": "2"
+                    },
+                    {
+                        "name": "test 2",
+                        "bookings": "2"
+                    }
+                ],
+                "today_revenue": "120",
+                "month_revenue": "690",
+                "year_revenue": "810",
+                "total_revenue": "880",
+                "completed_appointments": "28",
+                "pending_appointments": "6",
+                "cancelled_appointments": "1",
+                "services_avg_rating": [
+                    {
+                        "average_rating": "5.00",
+                        "service_name": "Nails Polishing"
+                    },
+                    {
+                        "average_rating": "4.00",
+                        "service_name": "Facial Treatment"
+                    },
+                    {
+                        "average_rating": "4.00",
+                        "service_name": "Henna"
+                    },
+                    {
+                        "average_rating": "3.67",
+                        "service_name": "Laser Hair\\"
+                    }
+                ],
+                "staff_avg_rating": [
+                    {
+                        "average_rating": "5.00",
+                        "staff_name": "Rania Samir"
+                    },
+                    {
+                        "average_rating": "4.50",
+                        "staff_name": "Test Staff"
+                    },
+                    {
+                        "average_rating": "4.00",
+                        "staff_name": "Noura Hasan"
+                    },
+                    {
+                        "average_rating": "4.00",
+                        "staff_name": "Maya Odeh"
+                    }
+                ],
+                "generated_at": "2025-07-03 07:29:04"
+            }
+        }
+    },
+    "POST": {
+        "csrf_token": "8e5d824f25c83b583ec5ad8d17ee1184ad1d55c8f0f363ce2bea788882b7b9ec"
+    },
+    "HEADER_X_CSRF": null
+}
